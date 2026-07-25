@@ -8,3 +8,8 @@
 | MES Demo 1               | [Download MES Demo 1](https://demo-api-1127.wellgroomedpets.com/nh_erp_07212026.tar)                              |
 | MES Demo 2               | [Download MES Demo 2](https://demo-api-1127.wellgroomedpets.com/nh_erp_0722.tar)                                  |
 | MES Demo Doc             | [Download MES Doc   ](https://demo-api-1127.wellgroomedpets.com/MesDemoDocument.tar)                              |
+
+## July 25th 2026
+| Package                  | Download                                                                                                          |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------- |
+| ME Server Environment    | [Download Server Environment](https://demo-api-1127.wellgroomedpets.com/mes_env_07252026.tar.gz)                  |
