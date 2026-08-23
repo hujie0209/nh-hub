@@ -1,15 +1,8 @@
 # NH Hub
 
-## July 20th 2026
+## August 20th 2026
 
 | Package                  | Download                                                                                                          |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------- |
-| Linux Server Environment | [Download Server Environment](https://demo-api-1127.wellgroomedpets.com/linux-server-setup-amd64-20260721.tar.gz) |
-| MES Demo 1               | [Download MES Demo 1](https://demo-api-1127.wellgroomedpets.com/nh_erp_07212026.tar)                              |
-| MES Demo 2               | [Download MES Demo 2](https://demo-api-1127.wellgroomedpets.com/nh_erp_0722.tar)                                  |
-| MES Demo Doc             | [Download MES Doc   ](https://demo-api-1127.wellgroomedpets.com/MesDemoDocument.tar)                              |
-
-## July 25th 2026
-| Package                  | Download                                                                                                          |
-| ------------------------ | ----------------------------------------------------------------------------------------------------------------- |
-| ME Server Environment    | [Download Server Environment](https://demo-api-1127.wellgroomedpets.com/mes_env_07252026.tar.gz)                  |
+| NVIDIA 550               | [Download](https://demo-api-1127.wellgroomedpets.com/nvidia-550.tar.gz)                                           |
+| NH ERP                   | [Download](https://demo-api-1127.wellgroomedpets.com/nh_erp_08202026.zip)                                         |
