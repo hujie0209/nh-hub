@@ -4,7 +4,6 @@
 
 | Package                  | Download                                                                                                          |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------- |
-| Mui Doc                  | [Download](https://demo-api-1127.wellgroomedpets.com/material-ui-master.zip)                                      |
-| Game Package             | [Download](https://demo-api-1127.wellgroomedpets.com/offline-game-bundle.tar.gz)                                  |
-| NH MES                   | [Download](https://demo-api-1127.wellgroomedpets.com/nh_mes_10_22.zip)                                            |
+| PNPM                     | [Download](https://demo-api-1127.wellgroomedpets.com/pnpm.zip)                                                    |
+| NH MES (1030)            | [Download](https://demo-api-1127.wellgroomedpets.com/nh_mes_10_30.zip)                                            |
 
